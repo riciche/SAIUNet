@@ -2,7 +2,7 @@
 **SAIUNet: Improving multimodel crowd counting by self-attention and illumination-aware mechanism**
 
 *2021/6/1*
-__we give a new multimodel crowd counting pipeline based on self-attention and illumination-aware-mechanissm, achieved the best results on the RGBTCC datasets, codes will be available as soon as possible__
+__we give a new multimodel crowd counting pipeline based on self-attention and illumination-aware mechanissm, and have achieved the best results on the RGBTCC datasets, codes will be available as soon as possible__
 
 __Result:
 SA Module (self-attention) + IU Module(illumination-aware)__
